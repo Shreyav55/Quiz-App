@@ -22,4 +22,4 @@ Features
 
 This project serves as a great example of React state management, API integration, and dynamic rendering. It is designed for anyone looking to enhance their front-end development skills while building an engaging and interactive application.
 
-Link of the Project - 
+Link of the Project - https://github.com/Shreyav55/Quiz-App
